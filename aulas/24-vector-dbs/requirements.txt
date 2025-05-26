@@ -9,29 +9,3 @@ langchain-text-splitters==0.3.8
 langchain-chroma==0.2.4
 langchain-openai==0.3.17
 chainlit==2.5.5
-# python-dotenv
-# langchain-community
-# langchain-chroma
-# langchain-openai
-# langchain-text-splitters
-# langchain
-# plotly
-# plotly-express
-# scikit-learn
-# chainlit==1.1.101
-# openai
-# azure-core
-
-
-# python-dotenv
-# langchain-community==0.2.0
-# langchain-chroma==0.1.1
-# langchain-openai==0.1.7
-# langchain-text-splitters==0.2.0
-# langchain==0.2.0
-# plotly
-# plotly-express
-# scikit-learn
-# chainlit==1.1.101
-# openai==1.75.0
-# azure-core==1.33.0
